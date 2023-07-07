@@ -1,7 +1,7 @@
 # Olá! Seja bem-vindo ao meu perfil no GitHub... 👋
 
 # Sobre mim:
-<p>Eu me chamo <strong>Luís Henrique Batista Tavares dos Santos</strong> e estudo informática no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (mais conhecido como CEFET-RJ) no campus Maracanã. Curso o 3° ano do ensino médio/técnico.</p>
+<p>Eu me chamo <strong>Luís Henrique Batista Tavares dos Santos</strong> e sou técnico em informática pelo Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (mais conhecido como CEFET-RJ).</p>
 
   <a href="mailto:luis.tavares@aluno.cefet-rj.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 

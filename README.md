@@ -1,9 +1,12 @@
 # Olá! Seja bem-vindo ao meu perfil no GitHub... 👋
 
 # Sobre mim:
-<p>Eu me chamo <strong>Luís Henrique Batista Tavares dos Santos</strong> e sou técnico em informática pelo Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (mais conhecido como CEFET-RJ).</p>
-
-  <a href="mailto:luis.tavares@aluno.cefet-rj.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<p>Eu me chamo <strong>Luís Henrique Batista Tavares dos Santos</strong> e aqui estão algumas informações sobre mim:</p>
+<ul>
+  <li>Técnico em Informática pelo Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET-RJ);</li>
+  <li>Aluno de Sistemas de Informação pela Universidade Federal do Estado do Rio de Janeiro (UNIRIO);</li>
+  <li>Integrante do grupo de pesquisa em Jogos para Contextos Complexos (JoCCom), onde atuo como aluno de Iniciação Científica.</li>
+</ul>
 
 <p align="left">
   <a href="https://skillicons.dev">
